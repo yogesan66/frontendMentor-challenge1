@@ -217,7 +217,7 @@ img {
 
     .left-section {
         width: 100%;
-        flex-grow: 1;
+        gap: 1.5rem;
     }
 
     .mini-cards-container {
